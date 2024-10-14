@@ -21,6 +21,12 @@ Hanyang University
 Seoul, Republic of Korea
 [popramel@hanyang.ac.kr](mailto:popramel@hanyang.ac.kr)
 
+Yu Jihye
+Dept. of Information Systems
+Hanyang University
+Seoul, Republic of Korea
+[jihyeyu33@hanyang.ac.kr](mailto:jihyeyu33@hanyang.ac.kr)
+
 **Blog Sites**
 
 - https://github.com/info2024ai
